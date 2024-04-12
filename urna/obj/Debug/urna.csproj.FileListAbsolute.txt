@@ -1,0 +1,10 @@
+C:\Users\luerd\source\repos\urna\urna\bin\Debug\urna.exe.config
+C:\Users\luerd\source\repos\urna\urna\bin\Debug\urna.exe
+C:\Users\luerd\source\repos\urna\urna\bin\Debug\urna.pdb
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.csproj.AssemblyReference.cache
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.Form1.resources
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.Properties.Resources.resources
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.csproj.GenerateResource.cache
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.csproj.CoreCompileInputs.cache
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.exe
+C:\Users\luerd\source\repos\urna\urna\obj\Debug\urna.pdb
